@@ -1,0 +1,83 @@
+#css-zen-garden {
+    background: url(./Imagens/Back_Geral.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-wrapper {
+    display: flex;
+    width: 97.5%;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #D37E37;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #C95A38;
+}
+
+#zen-intro {
+    background: url(./Imagens/Back_Intro.png);
+    width: 130%;
+    padding: 15px;
+    text-align: justify;
+    justify-content: space-around;
+    margin-right: 10px;
+}
+
+#zen-intro h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #46572D;
+    line-height: .5px;
+}
+
+#zen-intro h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #EBC021;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #B4C63C;
+}
+
+#zen-supporting {
+    width: 250%;
+    justify-content: space-around;
+    margin-right: 10px;
+    background: white;
+    padding: 20px;
+    text-align: justify;
+}
+
+.sidebar {
+    background: url(./Imagens/Back_Sumary.png);
+    padding: 15px;
+    text-align: justify;
+    justify-content: space-around;
+    margin-right: 10px;
+    width: 100%;
+    word-spacing: -2px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column
+}
+
+.design-name {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.designer-name {
+    font-weight: normal;
+    font-size: 15px;
+}
