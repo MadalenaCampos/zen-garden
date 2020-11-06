@@ -75,9 +75,21 @@ ul {
 .design-name {
     font-weight: bold;
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    /* "Pula a linha" */
+    margin-bottom: 0.25em;
+    font-style: normal;
+    text-align: left;
+    margin-left: -20px;
 }
 
 .designer-name {
     font-weight: normal;
     font-size: 15px;
+    color: #ce884b;
+}
+
+.designer-name a:hover {
+    color: #c93940;
 }
