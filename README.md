@@ -5,3 +5,4 @@
 
 <img src="/Imagens/page.png">
 
+> Essa é sua primeira versão, feita em 2020, um trabalho da cadeira de Desenvolvimento Web Front-end, quando dei inicio a minha trilha no front-end, a qual sigo até hoje. Com minhas novas habilidades na área em contante desenvolvimento, pretendo lançar a versão 2.0 desse projeto futuramente, assim me desafiando e demostrando meu poder de conhecimento em CSS.
